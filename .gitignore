@@ -1,0 +1,12 @@
+# Ignore a specific file
+secrets.txt
+
+# Ignore a whole folder
+node_modules/
+
+# Ignore all files with a certain extension
+*.log
+
+# Ignore OS junk files
+.DS_Store
+Thumbs.db
