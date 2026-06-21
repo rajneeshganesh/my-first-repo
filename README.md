@@ -1,5 +1,4 @@
-Hello GitHub, this is my first edit! (edited on GitHub.com)
-
+This line was changed on GitHub.com directly.
 learnig git and github
 
 Hello Github, this is my first edit!
