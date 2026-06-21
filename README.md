@@ -1,4 +1,4 @@
-Hello GitHub, this is my first edit! (edited on GitHub.com)
+This line was changed locally on my computer.
 
 learnig git and github
 
